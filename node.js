@@ -3,7 +3,7 @@ window.addEventListener("scroll", function(){
     hrf.classList.toggle("active" , window.scrollY >=450)
 })
 
-var imagenes =['img/D3.jpg','img/D4.jpg','img/D1.jpg','img/d2.jpg','img/cloud.jpg']
+var imagenes =['img/D6.jpg','img/D4.jpg','img/D5.jpg','img/D3.jpg','img/d2.jpg','img/cloud.jpg','img/D1.jpg']
 var cont = 0;
 
 function carruosel(contenedor){
